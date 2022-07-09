@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ip-finder/static/css/main.aba5c3f0.css",
+    "main.js": "/ip-finder/static/js/main.f2b89719.js",
+    "static/js/787.910afa04.chunk.js": "/ip-finder/static/js/787.910afa04.chunk.js",
+    "index.html": "/ip-finder/index.html",
+    "main.aba5c3f0.css.map": "/ip-finder/static/css/main.aba5c3f0.css.map",
+    "main.f2b89719.js.map": "/ip-finder/static/js/main.f2b89719.js.map",
+    "787.910afa04.chunk.js.map": "/ip-finder/static/js/787.910afa04.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aba5c3f0.css",
+    "static/js/main.f2b89719.js"
+  ]
+}
